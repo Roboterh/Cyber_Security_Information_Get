@@ -51,4 +51,6 @@
    nohup python3 main.py > /dev/null 2>&1 &
    ```
 
+   ![image-20220901132740414](README/image-20220901132740414.png)
    
+   ![img](README/FA145B51E8CBD257BB6FBD14E6849F50.jpg)
