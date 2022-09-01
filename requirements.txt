@@ -1,0 +1,8 @@
+requests
+dingtalkchatbot
+pyyaml
+lxml
+sqlite3
+selenium
+feedparser
+json

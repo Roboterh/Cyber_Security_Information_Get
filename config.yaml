@@ -1,0 +1,32 @@
+all_config:
+ dingding:
+   - enable: 0
+   - webhook: xxxxxxx
+   - secretKey: xxxxxxx
+   - app_name: dingding
+ feishu:
+   - enable: 0
+   - webhook: xxx
+   - app_name: feishu
+ server:
+   - enable: 1
+   - sckey: xx
+   - app_name: server
+ tgbot:
+   - enable: 0
+   - token: 123
+   - group_id: 123
+   - app_name: tgbot
+ pushplus:
+   - enable: 0
+   - token: 123456
+   - app_name: pushplus
+ black_user:
+   - AlAIAL90
+blog_rss_link:
+ seebug: https://paper.seebug.org/rss/
+ su18: https://su18.org/atom.xml
+ xz: https://xz.aliyun.com/feed
+ aqk: https://rss.quickso.cn/aqk/knowledge # mirror site using rsshub
+ tttang: https://tttang.com/rss.xml
+ zhihu_zhangkonganquan: https://rss.quickso.cn/zhihu/posts/org/teng-xun-zhang-kong-an-quan-xue-yuan
